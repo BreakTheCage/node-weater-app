@@ -1,0 +1,20 @@
+name: Saeid Yaghouti
+git: BreakTheCage
+Pass:Bre@kTheC@ge100
+Email: sarbaztanha707@outlook.com
+
+Terminal command:
+PS C:\Users\User\Documents\SAEEDVIP\Udemy\codeandgit> git --version
+git version 2.22.0.windows.1
+PS C:\Users\User\Documents\SAEEDVIP\Udemy\codeandgit> git config --global user.name "BreakTheCage"
+PS C:\Users\User\Documents\SAEEDVIP\Udemy\codeandgit> git clone "https://github.com/BreakTheCage/codeandgit.git"
+Cloning into 'codeandgit'...
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 7 (delta 0), reused 3 (delta 0), pack-reused 0
+Unpacking objects: 100% (7/7), done.
+PS C:\Users\User\Documents\SAEEDVIP\Udemy\codeandgit>
+
+
+Vs Code Command: stage/commit/push.
