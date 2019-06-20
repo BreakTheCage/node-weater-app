@@ -2,3 +2,5 @@ $ npm init -y
 =======================
 Chrome extension: JSON Formatter
 =======================
+Added to github
+
